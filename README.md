@@ -1,5 +1,5 @@
 # CONFIGURABLE POMODORO TIMER
-#### Video Demo:  https://youtu.be/BIQ6nQXgjDk?si=q653P9d6aoVLwpXH
+
 #### Description: This program utilizes the Pomodoro technique wherein rest is periodically done between periods of work. This program allows for the standard work and rest durations (25 minutes work and 5 minutes rest) while also allowing an option where the user can input their desired amount of work and rest.
 #### Basic Instructions:
 1. Make sure you are running Python version 3.9, this is because the playsound library does not support Python version 3.10 and beyond.
