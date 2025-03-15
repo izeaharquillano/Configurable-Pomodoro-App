@@ -114,6 +114,7 @@ class TimerApp:
 
 def main():
     root = tk.Tk()
+    root.iconbitmap("time.ico")
     timer_app = TimerApp(root)
     root.mainloop()
 
